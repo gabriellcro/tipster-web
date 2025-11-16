@@ -1,0 +1,294 @@
+{
+  "england": {
+    "id": "england",
+    "name": "Inglaterra",
+    "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+    "leagues": [
+      {
+        "id": 39,
+        "name": "Premier League",
+        "country": "Inglaterra",
+        "logo": "https://media.api-sports.io/football/leagues/39.png"
+      },
+      {
+        "id": 40,
+        "name": "Championship",
+        "country": "Inglaterra",
+        "logo": "https://media.api-sports.io/football/leagues/40.png"
+      },
+      {
+        "id": 48,
+        "name": "FA Cup",
+        "country": "Inglaterra",
+        "logo": "https://media.api-sports.io/football/leagues/48.png"
+      },
+      {
+        "id": 45,
+        "name": "FA Community Shield",
+        "country": "Inglaterra",
+        "logo": "https://media.api-sports.io/football/leagues/45.png"
+      }
+    ]
+  },
+  "spain": {
+    "id": "spain",
+    "name": "Espanha",
+    "flag": "https://media.api-sports.io/flags/es.svg",
+    "leagues": [
+      {
+        "id": 140,
+        "name": "La Liga",
+        "country": "Espanha",
+        "logo": "https://media.api-sports.io/football/leagues/140.png"
+      },
+      {
+        "id": 141,
+        "name": "Segunda División",
+        "country": "Espanha",
+        "logo": "https://media.api-sports.io/football/leagues/141.png"
+      },
+      {
+        "id": 143,
+        "name": "Copa del Rey",
+        "country": "Espanha",
+        "logo": "https://media.api-sports.io/football/leagues/143.png"
+      },
+      {
+        "id": 556,
+        "name": "Supercopa da Espanha",
+        "country": "Espanha",
+        "logo": "https://media.api-sports.io/football/leagues/556.png"
+      }
+    ]
+  },
+  "france": {
+    "id": "france",
+    "name": "França",
+    "flag": "https://media.api-sports.io/flags/fr.svg",
+    "leagues": [
+      {
+        "id": 61,
+        "name": "Ligue 1",
+        "country": "França",
+        "logo": "https://media.api-sports.io/football/leagues/61.png"
+      },
+      {
+        "id": 62,
+        "name": "Ligue 2",
+        "country": "França",
+        "logo": "https://media.api-sports.io/football/leagues/62.png"
+      },
+      {
+        "id": 66,
+        "name": "Coupe de France",
+        "country": "França",
+        "logo": "https://media.api-sports.io/football/leagues/66.png"
+      },
+      {
+        "id": 65,
+        "name": "Coupe de la Ligue",
+        "country": "França",
+        "logo": "https://media.api-sports.io/football/leagues/65.png"
+      }
+    ]
+  },
+  "italy": {
+    "id": "italy",
+    "name": "Itália",
+    "flag": "https://media.api-sports.io/flags/it.svg",
+    "leagues": [
+      {
+        "id": 135,
+        "name": "Serie A",
+        "country": "Itália",
+        "logo": "https://media.api-sports.io/football/leagues/135.png"
+      },
+      {
+        "id": 136,
+        "name": "Serie B",
+        "country": "Itália",
+        "logo": "https://media.api-sports.io/football/leagues/136.png"
+      },
+      {
+        "id": 137,
+        "name": "Coppa Italia",
+        "country": "Itália",
+        "logo": "https://media.api-sports.io/football/leagues/137.png"
+      },
+      {
+        "id": 547,
+        "name": "Supercopa da Itália",
+        "country": "Itália",
+        "logo": "https://media.api-sports.io/football/leagues/547.png"
+      }
+    ]
+  },
+  "brazil": {
+    "id": "brazil",
+    "name": "Brasil",
+    "flag": "https://media.api-sports.io/flags/br.svg",
+    "leagues": [
+      {
+        "id": 71,
+        "name": "Série A",
+        "country": "Brasil",
+        "logo": "https://media.api-sports.io/football/leagues/71.png"
+      },
+      {
+        "id": 72,
+        "name": "Série B",
+        "country": "Brasil",
+        "logo": "https://media.api-sports.io/football/leagues/72.png"
+      },
+      {
+        "id": 74,
+        "name": "Copa do Brasil",
+        "country": "Brasil",
+        "logo": "https://media.api-sports.io/football/leagues/74.png"
+      }
+    ]
+  },
+  "germany": {
+    "id": "germany",
+    "name": "Alemanha",
+    "flag": "https://media.api-sports.io/flags/de.svg",
+    "leagues": [
+      {
+        "id": 78,
+        "name": "Bundesliga",
+        "country": "Alemanha",
+        "logo": "https://media.api-sports.io/football/leagues/78.png"
+      },
+      {
+        "id": 79,
+        "name": "2. Bundesliga",
+        "country": "Alemanha",
+        "logo": "https://media.api-sports.io/football/leagues/79.png"
+      },
+      {
+        "id": 81,
+        "name": "DFB Pokal",
+        "country": "Alemanha",
+        "logo": "https://media.api-sports.io/football/leagues/81.png"
+      },
+      {
+        "id": 82,
+        "name": "Supercopa da Alemanha",
+        "country": "Alemanha",
+        "logo": "https://media.api-sports.io/football/leagues/82.png"
+      }
+    ]
+  },
+  "portugal": {
+    "id": "portugal",
+    "name": "Portugal",
+    "flag": "https://media.api-sports.io/flags/pt.svg",
+    "leagues": [
+      {
+        "id": 94,
+        "name": "Primeira Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/94.png"
+      },
+      {
+        "id": 95,
+        "name": "Segunda Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/95.png"
+      },
+      {
+        "id": 96,
+        "name": "Taça de Portugal",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/96.png"
+      },
+      {
+        "id": 97,
+        "name": "Taça da Liga",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/97.png"
+      },
+      {
+        "id": 98,
+        "name": "Supertaça de Portugal",
+        "country": "Portugal",
+        "logo": "https://media.api-sports.io/football/leagues/98.png"
+      }
+    ]
+  },
+  "uefa": {
+    "id": "uefa",
+    "name": "UEFA",
+    "flag": "",
+    "leagues": [
+      {
+        "id": 2,
+        "name": "UEFA Champions League",
+        "country": "Europa",
+        "logo": "https://media.api-sports.io/football/leagues/2.png"
+      },
+      {
+        "id": 3,
+        "name": "UEFA Europa League",
+        "country": "Europa",
+        "logo": "https://media.api-sports.io/football/leagues/3.png"
+      },
+      {
+        "id": 848,
+        "name": "UEFA Europa Conference League",
+        "country": "Europa",
+        "logo": "https://media.api-sports.io/football/leagues/848.png"
+      },
+      {
+        "id": 4,
+        "name": "UEFA Nations League",
+        "country": "Europa",
+        "logo": "https://media.api-sports.io/football/leagues/4.png"
+      },
+      {
+        "id": 5,
+        "name": "UEFA Super Cup",
+        "country": "Europa",
+        "logo": "https://media.api-sports.io/football/leagues/5.png"
+      }
+    ]
+  },
+  "conmebol": {
+    "id": "conmebol",
+    "name": "CONMEBOL",
+    "flag": "",
+    "leagues": [
+      {
+        "id": 13,
+        "name": "CONMEBOL Libertadores",
+        "country": "América do Sul",
+        "logo": "https://media.api-sports.io/football/leagues/13.png"
+      },
+      {
+        "id": 11,
+        "name": "CONMEBOL Sudamericana",
+        "country": "América do Sul",
+        "logo": "https://media.api-sports.io/football/leagues/11.png"
+      },
+      {
+        "id": 12,
+        "name": "CONMEBOL Recopa Sudamericana",
+        "country": "América do Sul",
+        "logo": "https://media.api-sports.io/football/leagues/12.png"
+      }
+    ]
+  },
+  "fifa": {
+    "id": "fifa",
+    "name": "FIFA",
+    "flag": "",
+    "leagues": [
+      {
+        "id": 17,
+        "name": "FIFA Confederations Cup",
+        "country": "Mundial",
+        "logo": "https://media.api-sports.io/football/leagues/17.png"
+      }
+    ]
+  }
+}

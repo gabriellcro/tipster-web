@@ -1,0 +1,1195 @@
+{
+  "get": "predictions",
+  "parameters": {
+    "fixture": "1035544"
+  },
+  "errors": [],
+  "results": 1,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "predictions": {
+        "winner": {
+          "id": 42,
+          "name": "Arsenal",
+          "comment": null
+        },
+        "win_or_draw": false,
+        "under_over": null,
+        "goals": {
+          "home": "-3.5",
+          "away": "-1.5"
+        },
+        "advice": "Winner : Arsenal",
+        "percent": {
+          "home": "45%",
+          "draw": "45%",
+          "away": "10%"
+        }
+      },
+      "league": {
+        "id": 39,
+        "name": "Premier League",
+        "country": "England",
+        "logo": "https://media.api-sports.io/football/leagues/39.png",
+        "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+        "season": 2023
+      },
+      "teams": {
+        "home": {
+          "id": 42,
+          "name": "Arsenal",
+          "logo": "https://media.api-sports.io/football/teams/42.png",
+          "last_5": {
+            "played": 5,
+            "form": "100%",
+            "att": "82%",
+            "def": "88%",
+            "goals": {
+              "for": {
+                "total": 14,
+                "average": "2.8"
+              },
+              "against": {
+                "total": 2,
+                "average": "0.4"
+              }
+            }
+          },
+          "league": {
+            "form": "WWDWWDWWDWLWWWWLWDLLWWWWWWWWDWWLWWWWW",
+            "fixtures": {
+              "played": {
+                "home": 18,
+                "away": 19,
+                "total": 37
+              },
+              "wins": {
+                "home": 14,
+                "away": 13,
+                "total": 27
+              },
+              "draws": {
+                "home": 2,
+                "away": 3,
+                "total": 5
+              },
+              "loses": {
+                "home": 2,
+                "away": 3,
+                "total": 5
+              }
+            },
+            "goals": {
+              "for": {
+                "total": {
+                  "home": 46,
+                  "away": 43,
+                  "total": 89
+                },
+                "average": {
+                  "home": "2.6",
+                  "away": "2.3",
+                  "total": "2.4"
+                },
+                "minute": {
+                  "0-15": {
+                    "total": 10,
+                    "percentage": "11.76%"
+                  },
+                  "16-30": {
+                    "total": 11,
+                    "percentage": "12.94%"
+                  },
+                  "31-45": {
+                    "total": 13,
+                    "percentage": "15.29%"
+                  },
+                  "46-60": {
+                    "total": 16,
+                    "percentage": "18.82%"
+                  },
+                  "61-75": {
+                    "total": 16,
+                    "percentage": "18.82%"
+                  },
+                  "76-90": {
+                    "total": 9,
+                    "percentage": "10.59%"
+                  },
+                  "91-105": {
+                    "total": 10,
+                    "percentage": "11.76%"
+                  },
+                  "106-120": {
+                    "total": null,
+                    "percentage": null
+                  }
+                },
+                "under_over": {
+                  "0.5": {
+                    "over": 32,
+                    "under": 5
+                  },
+                  "1.5": {
+                    "over": 25,
+                    "under": 12
+                  },
+                  "2.5": {
+                    "over": 15,
+                    "under": 22
+                  },
+                  "3.5": {
+                    "over": 9,
+                    "under": 28
+                  },
+                  "4.5": {
+                    "over": 6,
+                    "under": 31
+                  }
+                }
+              },
+              "against": {
+                "total": {
+                  "home": 15,
+                  "away": 13,
+                  "total": 28
+                },
+                "average": {
+                  "home": "0.8",
+                  "away": "0.7",
+                  "total": "0.8"
+                },
+                "minute": {
+                  "0-15": {
+                    "total": 6,
+                    "percentage": "18.75%"
+                  },
+                  "16-30": {
+                    "total": 6,
+                    "percentage": "18.75%"
+                  },
+                  "31-45": {
+                    "total": 2,
+                    "percentage": "6.25%"
+                  },
+                  "46-60": {
+                    "total": 8,
+                    "percentage": "25.00%"
+                  },
+                  "61-75": {
+                    "total": 2,
+                    "percentage": "6.25%"
+                  },
+                  "76-90": {
+                    "total": 8,
+                    "percentage": "25.00%"
+                  },
+                  "91-105": {
+                    "total": null,
+                    "percentage": null
+                  },
+                  "106-120": {
+                    "total": null,
+                    "percentage": null
+                  }
+                },
+                "under_over": {
+                  "0.5": {
+                    "over": 19,
+                    "under": 18
+                  },
+                  "1.5": {
+                    "over": 8,
+                    "under": 29
+                  },
+                  "2.5": {
+                    "over": 1,
+                    "under": 36
+                  },
+                  "3.5": {
+                    "over": 0,
+                    "under": 37
+                  },
+                  "4.5": {
+                    "over": 0,
+                    "under": 37
+                  }
+                }
+              }
+            },
+            "biggest": {
+              "streak": {
+                "wins": 8,
+                "draws": 1,
+                "loses": 2
+              },
+              "wins": {
+                "home": "5-0",
+                "away": "0-6"
+              },
+              "loses": {
+                "home": "0-2",
+                "away": "2-1"
+              },
+              "goals": {
+                "for": {
+                  "home": 5,
+                  "away": 6
+                },
+                "against": {
+                  "home": 2,
+                  "away": 3
+                }
+              }
+            },
+            "clean_sheet": {
+              "home": 7,
+              "away": 11,
+              "total": 18
+            },
+            "failed_to_score": {
+              "home": 2,
+              "away": 3,
+              "total": 5
+            },
+            "penalty": {
+              "scored": {
+                "total": 10,
+                "percentage": "100.00%"
+              },
+              "missed": {
+                "total": 0,
+                "percentage": "0%"
+              },
+              "total": 10
+            },
+            "lineups": [
+              {
+                "formation": "4-3-3",
+                "played": 37
+              }
+            ],
+            "cards": {
+              "yellow": {
+                "0-15": {
+                  "total": 5,
+                  "percentage": "8.33%"
+                },
+                "16-30": {
+                  "total": 2,
+                  "percentage": "3.33%"
+                },
+                "31-45": {
+                  "total": 11,
+                  "percentage": "18.33%"
+                },
+                "46-60": {
+                  "total": 13,
+                  "percentage": "21.67%"
+                },
+                "61-75": {
+                  "total": 9,
+                  "percentage": "15.00%"
+                },
+                "76-90": {
+                  "total": 9,
+                  "percentage": "15.00%"
+                },
+                "91-105": {
+                  "total": 11,
+                  "percentage": "18.33%"
+                },
+                "106-120": {
+                  "total": null,
+                  "percentage": null
+                }
+              },
+              "red": {
+                "0-15": {
+                  "total": null,
+                  "percentage": null
+                },
+                "16-30": {
+                  "total": null,
+                  "percentage": null
+                },
+                "31-45": {
+                  "total": null,
+                  "percentage": null
+                },
+                "46-60": {
+                  "total": null,
+                  "percentage": null
+                },
+                "61-75": {
+                  "total": 1,
+                  "percentage": "50.00%"
+                },
+                "76-90": {
+                  "total": 1,
+                  "percentage": "50.00%"
+                },
+                "91-105": {
+                  "total": null,
+                  "percentage": null
+                },
+                "106-120": {
+                  "total": null,
+                  "percentage": null
+                }
+              }
+            }
+          }
+        },
+        "away": {
+          "id": 45,
+          "name": "Everton",
+          "logo": "https://media.api-sports.io/football/teams/45.png",
+          "last_5": {
+            "played": 5,
+            "form": "87%",
+            "att": "41%",
+            "def": "94%",
+            "goals": {
+              "for": {
+                "total": 7,
+                "average": "1.4"
+              },
+              "against": {
+                "total": 1,
+                "average": "0.2"
+              }
+            }
+          },
+          "league": {
+            "form": "LLLDLWLWLWDWLWWWWLLLDDDLDDLLLDWLWWWDW",
+            "fixtures": {
+              "played": {
+                "home": 19,
+                "away": 18,
+                "total": 37
+              },
+              "wins": {
+                "home": 8,
+                "away": 5,
+                "total": 13
+              },
+              "draws": {
+                "home": 4,
+                "away": 5,
+                "total": 9
+              },
+              "loses": {
+                "home": 7,
+                "away": 8,
+                "total": 15
+              }
+            },
+            "goals": {
+              "for": {
+                "total": {
+                  "home": 22,
+                  "away": 17,
+                  "total": 39
+                },
+                "average": {
+                  "home": "1.2",
+                  "away": "0.9",
+                  "total": "1.1"
+                },
+                "minute": {
+                  "0-15": {
+                    "total": 5,
+                    "percentage": "11.90%"
+                  },
+                  "16-30": {
+                    "total": 7,
+                    "percentage": "16.67%"
+                  },
+                  "31-45": {
+                    "total": 3,
+                    "percentage": "7.14%"
+                  },
+                  "46-60": {
+                    "total": 10,
+                    "percentage": "23.81%"
+                  },
+                  "61-75": {
+                    "total": 4,
+                    "percentage": "9.52%"
+                  },
+                  "76-90": {
+                    "total": 9,
+                    "percentage": "21.43%"
+                  },
+                  "91-105": {
+                    "total": 4,
+                    "percentage": "9.52%"
+                  },
+                  "106-120": {
+                    "total": null,
+                    "percentage": null
+                  }
+                },
+                "under_over": {
+                  "0.5": {
+                    "over": 25,
+                    "under": 12
+                  },
+                  "1.5": {
+                    "over": 10,
+                    "under": 27
+                  },
+                  "2.5": {
+                    "over": 4,
+                    "under": 33
+                  },
+                  "3.5": {
+                    "over": 0,
+                    "under": 37
+                  },
+                  "4.5": {
+                    "over": 0,
+                    "under": 37
+                  }
+                }
+              },
+              "against": {
+                "total": {
+                  "home": 18,
+                  "away": 31,
+                  "total": 49
+                },
+                "average": {
+                  "home": "0.9",
+                  "away": "1.7",
+                  "total": "1.3"
+                },
+                "minute": {
+                  "0-15": {
+                    "total": 7,
+                    "percentage": "15.22%"
+                  },
+                  "16-30": {
+                    "total": 8,
+                    "percentage": "17.39%"
+                  },
+                  "31-45": {
+                    "total": 6,
+                    "percentage": "13.04%"
+                  },
+                  "46-60": {
+                    "total": 4,
+                    "percentage": "8.70%"
+                  },
+                  "61-75": {
+                    "total": 13,
+                    "percentage": "28.26%"
+                  },
+                  "76-90": {
+                    "total": 4,
+                    "percentage": "8.70%"
+                  },
+                  "91-105": {
+                    "total": 4,
+                    "percentage": "8.70%"
+                  },
+                  "106-120": {
+                    "total": null,
+                    "percentage": null
+                  }
+                },
+                "under_over": {
+                  "0.5": {
+                    "over": 24,
+                    "under": 13
+                  },
+                  "1.5": {
+                    "over": 15,
+                    "under": 22
+                  },
+                  "2.5": {
+                    "over": 6,
+                    "under": 31
+                  },
+                  "3.5": {
+                    "over": 2,
+                    "under": 35
+                  },
+                  "4.5": {
+                    "over": 1,
+                    "under": 36
+                  }
+                }
+              }
+            },
+            "biggest": {
+              "streak": {
+                "wins": 4,
+                "draws": 3,
+                "loses": 3
+              },
+              "wins": {
+                "home": "3-0",
+                "away": "1-3"
+              },
+              "loses": {
+                "home": "0-3",
+                "away": "6-0"
+              },
+              "goals": {
+                "for": {
+                  "home": 3,
+                  "away": 3
+                },
+                "against": {
+                  "home": 3,
+                  "away": 6
+                }
+              }
+            },
+            "clean_sheet": {
+              "home": 9,
+              "away": 4,
+              "total": 13
+            },
+            "failed_to_score": {
+              "home": 5,
+              "away": 7,
+              "total": 12
+            },
+            "penalty": {
+              "scored": {
+                "total": 2,
+                "percentage": "100.00%"
+              },
+              "missed": {
+                "total": 0,
+                "percentage": "0%"
+              },
+              "total": 2
+            },
+            "lineups": [
+              {
+                "formation": "4-4-1-1",
+                "played": 27
+              },
+              {
+                "formation": "4-2-3-1",
+                "played": 4
+              },
+              {
+                "formation": "4-1-4-1",
+                "played": 3
+              },
+              {
+                "formation": "5-4-1",
+                "played": 2
+              },
+              {
+                "formation": "4-5-1",
+                "played": 1
+              }
+            ],
+            "cards": {
+              "yellow": {
+                "0-15": {
+                  "total": 5,
+                  "percentage": "6.33%"
+                },
+                "16-30": {
+                  "total": 11,
+                  "percentage": "13.92%"
+                },
+                "31-45": {
+                  "total": 13,
+                  "percentage": "16.46%"
+                },
+                "46-60": {
+                  "total": 13,
+                  "percentage": "16.46%"
+                },
+                "61-75": {
+                  "total": 9,
+                  "percentage": "11.39%"
+                },
+                "76-90": {
+                  "total": 14,
+                  "percentage": "17.72%"
+                },
+                "91-105": {
+                  "total": 13,
+                  "percentage": "16.46%"
+                },
+                "106-120": {
+                  "total": null,
+                  "percentage": null
+                }
+              },
+              "red": {
+                "0-15": {
+                  "total": null,
+                  "percentage": null
+                },
+                "16-30": {
+                  "total": null,
+                  "percentage": null
+                },
+                "31-45": {
+                  "total": 1,
+                  "percentage": "100.00%"
+                },
+                "46-60": {
+                  "total": null,
+                  "percentage": null
+                },
+                "61-75": {
+                  "total": null,
+                  "percentage": null
+                },
+                "76-90": {
+                  "total": null,
+                  "percentage": null
+                },
+                "91-105": {
+                  "total": null,
+                  "percentage": null
+                },
+                "106-120": {
+                  "total": null,
+                  "percentage": null
+                }
+              }
+            }
+          }
+        }
+      },
+      "comparison": {
+        "form": {
+          "home": "54%",
+          "away": "46%"
+        },
+        "att": {
+          "home": "67%",
+          "away": "33%"
+        },
+        "def": {
+          "home": "33%",
+          "away": "67%"
+        },
+        "poisson_distribution": {
+          "home": "82%",
+          "away": "18%"
+        },
+        "h2h": {
+          "home": "80%",
+          "away": "20%"
+        },
+        "goals": {
+          "home": "86%",
+          "away": "14%"
+        },
+        "total": {
+          "home": "67.0%",
+          "away": "33.0%"
+        }
+      },
+      "h2h": [
+        {
+          "fixture": {
+            "id": 1035079,
+            "referee": "S. Hooper",
+            "timezone": "UTC",
+            "date": "2023-09-17T15:30:00+00:00",
+            "timestamp": 1694964600,
+            "periods": {
+              "first": 1694964600,
+              "second": 1694968200
+            },
+            "venue": {
+              "id": 8560,
+              "name": "Goodison Park",
+              "city": "Liverpool"
+            },
+            "status": {
+              "long": "Match Finished",
+              "short": "FT",
+              "elapsed": 90,
+              "extra": null
+            }
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2023,
+            "round": "Regular Season - 5",
+            "standings": true
+          },
+          "teams": {
+            "home": {
+              "id": 45,
+              "name": "Everton",
+              "logo": "https://media.api-sports.io/football/teams/45.png",
+              "winner": false
+            },
+            "away": {
+              "id": 42,
+              "name": "Arsenal",
+              "logo": "https://media.api-sports.io/football/teams/42.png",
+              "winner": true
+            }
+          },
+          "goals": {
+            "home": 0,
+            "away": 1
+          },
+          "score": {
+            "halftime": {
+              "home": 0,
+              "away": 0
+            },
+            "fulltime": {
+              "home": 0,
+              "away": 1
+            },
+            "extratime": {
+              "home": null,
+              "away": null
+            },
+            "penalty": {
+              "home": null,
+              "away": null
+            }
+          }
+        },
+        {
+          "fixture": {
+            "id": 868007,
+            "referee": "M. Oliver",
+            "timezone": "UTC",
+            "date": "2023-03-01T19:45:00+00:00",
+            "timestamp": 1677699900,
+            "periods": {
+              "first": 1677699900,
+              "second": 1677703500
+            },
+            "venue": {
+              "id": 494,
+              "name": "Emirates Stadium",
+              "city": "London"
+            },
+            "status": {
+              "long": "Match Finished",
+              "short": "FT",
+              "elapsed": 90,
+              "extra": null
+            }
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2022,
+            "round": "Regular Season - 7",
+            "standings": true
+          },
+          "teams": {
+            "home": {
+              "id": 42,
+              "name": "Arsenal",
+              "logo": "https://media.api-sports.io/football/teams/42.png",
+              "winner": true
+            },
+            "away": {
+              "id": 45,
+              "name": "Everton",
+              "logo": "https://media.api-sports.io/football/teams/45.png",
+              "winner": false
+            }
+          },
+          "goals": {
+            "home": 4,
+            "away": 0
+          },
+          "score": {
+            "halftime": {
+              "home": 2,
+              "away": 0
+            },
+            "fulltime": {
+              "home": 4,
+              "away": 0
+            },
+            "extratime": {
+              "home": null,
+              "away": null
+            },
+            "penalty": {
+              "home": null,
+              "away": null
+            }
+          }
+        },
+        {
+          "fixture": {
+            "id": 868160,
+            "referee": "D. Coote",
+            "timezone": "UTC",
+            "date": "2023-02-04T12:30:00+00:00",
+            "timestamp": 1675513800,
+            "periods": {
+              "first": 1675513800,
+              "second": 1675517400
+            },
+            "venue": {
+              "id": 8560,
+              "name": "Goodison Park",
+              "city": "Liverpool"
+            },
+            "status": {
+              "long": "Match Finished",
+              "short": "FT",
+              "elapsed": 90,
+              "extra": null
+            }
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2022,
+            "round": "Regular Season - 22",
+            "standings": true
+          },
+          "teams": {
+            "home": {
+              "id": 45,
+              "name": "Everton",
+              "logo": "https://media.api-sports.io/football/teams/45.png",
+              "winner": true
+            },
+            "away": {
+              "id": 42,
+              "name": "Arsenal",
+              "logo": "https://media.api-sports.io/football/teams/42.png",
+              "winner": false
+            }
+          },
+          "goals": {
+            "home": 1,
+            "away": 0
+          },
+          "score": {
+            "halftime": {
+              "home": 0,
+              "away": 0
+            },
+            "fulltime": {
+              "home": 1,
+              "away": 0
+            },
+            "extratime": {
+              "home": null,
+              "away": null
+            },
+            "penalty": {
+              "home": null,
+              "away": null
+            }
+          }
+        },
+        {
+          "fixture": {
+            "id": 869521,
+            "referee": null,
+            "timezone": "UTC",
+            "date": "2022-07-16T23:00:00+00:00",
+            "timestamp": 1658012400,
+            "periods": {
+              "first": 1658012400,
+              "second": 1658016000
+            },
+            "venue": {
+              "id": null,
+              "name": "M&T Bank Stadium",
+              "city": "Baltimore, Maryland"
+            },
+            "status": {
+              "long": "Match Finished",
+              "short": "FT",
+              "elapsed": 90,
+              "extra": null
+            }
+          },
+          "league": {
+            "id": 667,
+            "name": "Friendlies Clubs",
+            "country": "World",
+            "logo": "https://media.api-sports.io/football/leagues/667.png",
+            "flag": null,
+            "season": 2022,
+            "round": "Club Friendlies 1",
+            "standings": false
+          },
+          "teams": {
+            "home": {
+              "id": 42,
+              "name": "Arsenal",
+              "logo": "https://media.api-sports.io/football/teams/42.png",
+              "winner": true
+            },
+            "away": {
+              "id": 45,
+              "name": "Everton",
+              "logo": "https://media.api-sports.io/football/teams/45.png",
+              "winner": false
+            }
+          },
+          "goals": {
+            "home": 2,
+            "away": 0
+          },
+          "score": {
+            "halftime": {
+              "home": 2,
+              "away": 0
+            },
+            "fulltime": {
+              "home": 2,
+              "away": 0
+            },
+            "extratime": {
+              "home": null,
+              "away": null
+            },
+            "penalty": {
+              "home": null,
+              "away": null
+            }
+          }
+        },
+        {
+          "fixture": {
+            "id": 710926,
+            "referee": "A. Marriner",
+            "timezone": "UTC",
+            "date": "2022-05-22T15:00:00+00:00",
+            "timestamp": 1653231600,
+            "periods": {
+              "first": 1653231600,
+              "second": 1653235200
+            },
+            "venue": {
+              "id": 494,
+              "name": "Emirates Stadium",
+              "city": "London"
+            },
+            "status": {
+              "long": "Match Finished",
+              "short": "FT",
+              "elapsed": 90,
+              "extra": null
+            }
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2021,
+            "round": "Regular Season - 38",
+            "standings": true
+          },
+          "teams": {
+            "home": {
+              "id": 42,
+              "name": "Arsenal",
+              "logo": "https://media.api-sports.io/football/teams/42.png",
+              "winner": true
+            },
+            "away": {
+              "id": 45,
+              "name": "Everton",
+              "logo": "https://media.api-sports.io/football/teams/45.png",
+              "winner": false
+            }
+          },
+          "goals": {
+            "home": 5,
+            "away": 1
+          },
+          "score": {
+            "halftime": {
+              "home": 2,
+              "away": 1
+            },
+            "fulltime": {
+              "home": 5,
+              "away": 1
+            },
+            "extratime": {
+              "home": null,
+              "away": null
+            },
+            "penalty": {
+              "home": null,
+              "away": null
+            }
+          }
+        },
+        {
+          "fixture": {
+            "id": 710697,
+            "referee": "M. Dean",
+            "timezone": "UTC",
+            "date": "2021-12-06T20:00:00+00:00",
+            "timestamp": 1638820800,
+            "periods": {
+              "first": 1638820800,
+              "second": 1638824400
+            },
+            "venue": {
+              "id": 8560,
+              "name": "Goodison Park",
+              "city": "Liverpool"
+            },
+            "status": {
+              "long": "Match Finished",
+              "short": "FT",
+              "elapsed": 90,
+              "extra": null
+            }
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2021,
+            "round": "Regular Season - 15",
+            "standings": true
+          },
+          "teams": {
+            "home": {
+              "id": 45,
+              "name": "Everton",
+              "logo": "https://media.api-sports.io/football/teams/45.png",
+              "winner": true
+            },
+            "away": {
+              "id": 42,
+              "name": "Arsenal",
+              "logo": "https://media.api-sports.io/football/teams/42.png",
+              "winner": false
+            }
+          },
+          "goals": {
+            "home": 2,
+            "away": 1
+          },
+          "score": {
+            "halftime": {
+              "home": 0,
+              "away": 1
+            },
+            "fulltime": {
+              "home": 2,
+              "away": 1
+            },
+            "extratime": {
+              "home": null,
+              "away": null
+            },
+            "penalty": {
+              "home": null,
+              "away": null
+            }
+          }
+        },
+        {
+          "fixture": {
+            "id": 592816,
+            "referee": "J. Moss",
+            "timezone": "UTC",
+            "date": "2021-04-23T19:00:00+00:00",
+            "timestamp": 1619204400,
+            "periods": {
+              "first": 1619204400,
+              "second": 1619208000
+            },
+            "venue": {
+              "id": 494,
+              "name": "Emirates Stadium",
+              "city": "London"
+            },
+            "status": {
+              "long": "Match Finished",
+              "short": "FT",
+              "elapsed": 90,
+              "extra": null
+            }
+          },
+          "league": {
+            "id": 39,
+            "name": "Premier League",
+            "country": "England",
+            "logo": "https://media.api-sports.io/football/leagues/39.png",
+            "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+            "season": 2020,
+            "round": "Regular Season - 33",
+            "standings": true
+          },
+          "teams": {
+            "home": {
+              "id": 42,
+              "name": "Arsenal",
+              "logo": "https://media.api-sports.io/football/teams/42.png",
+              "winner": false
+            },
+            "away": {
+              "id": 45,
+              "name": "Everton",
+              "logo": "https://media.api-sports.io/football/teams/45.png",
+              "winner": true
+            }
+          },
+          "goals": {
+            "home": 0,
+            "away": 1
+          },
+          "score": {
+            "halftime": {
+              "home": 0,
+              "away": 0
+            },
+            "fulltime": {
+              "home": 0,
+              "away": 1
+            },
+            "extratime": {
+              "home": null,
+              "away": null
+            },
+            "penalty": {
+              "home": null,
+              "away": null
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

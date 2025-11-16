@@ -1,0 +1,914 @@
+{
+  "get": "players/topyellowcards",
+  "parameters": {
+    "league": "39",
+    "season": "2023"
+  },
+  "results": 20,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": [
+    {
+      "player": {
+        "id": 41104,
+        "name": "João Palhinha",
+        "firstname": "João Maria",
+        "lastname": "Lobo Alves Palhinha Gonçalves",
+        "age": 30,
+        "birth": {
+          "date": "1995-07-09",
+          "place": "Lisbon",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "190",
+        "weight": "84",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/41104.png"
+      },
+      "statistics": {
+        "team": {
+          "id": 36,
+          "name": "Fulham",
+          "logo": "https://media.api-sports.io/football/teams/36.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 33,
+          "lineups": 32,
+          "minutes": 2707,
+          "position": "Midfielder",
+          "rating": "7.148484"
+        },
+        "goals": {
+          "total": 4,
+          "assists": 1
+        },
+        "cards": {
+          "yellow": 13,
+          "yellowred": null,
+          "red": 0
+        }
+      }
+    },
+    {
+      "player": {
+        "id": 6610,
+        "name": "M. Senesi",
+        "firstname": "Marcos Nicolás",
+        "lastname": "Senesi Barón",
+        "age": 28,
+        "birth": {
+          "date": "1997-05-10",
+          "place": "Concordia",
+          "country": "Argentina"
+        },
+        "nationality": "Argentina",
+        "height": "185",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/6610.png"
+      },
+      "statistics": {
+        "team": {
+          "id": 35,
+          "name": "Bournemouth",
+          "logo": "https://media.api-sports.io/football/teams/35.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 32,
+          "lineups": 29,
+          "minutes": 2268,
+          "position": "Defender",
+          "rating": "6.970967"
+        },
+        "goals": {
+          "total": 4,
+          "assists": 5
+        },
+        "cards": {
+          "yellow": 13,
+          "yellowred": null,
+          "red": 0
+        }
+      }
+    },
+    {
+      "player": {
+        "id": 138787,
+        "name": "A. Gordon",
+        "firstname": "Anthony Michael",
+        "lastname": "Gordon",
+        "age": 24,
+        "birth": {
+          "date": "2001-02-24",
+          "place": "Liverpool",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "183",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/138787.png"
+      },
+      "statistics": {
+        "team": {
+          "id": 34,
+          "name": "Newcastle",
+          "logo": "https://media.api-sports.io/football/teams/34.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 35,
+          "lineups": 35,
+          "minutes": 2900,
+          "position": "Attacker",
+          "rating": "7.402857"
+        },
+        "goals": {
+          "total": 11,
+          "assists": 10
+        },
+        "cards": {
+          "yellow": 12,
+          "yellowred": null,
+          "red": 1
+        }
+      }
+    },
+    {
+      "player": {
+        "id": 47522,
+        "name": "Douglas Luiz",
+        "firstname": "Douglas Luiz",
+        "lastname": "Soares de Paulo",
+        "age": 27,
+        "birth": {
+          "date": "1998-05-09",
+          "place": "Rio de Janeiro",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "175",
+        "weight": "66",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/47522.png"
+      },
+      "statistics": {
+        "team": {
+          "id": 66,
+          "name": "Aston Villa",
+          "logo": "https://media.api-sports.io/football/teams/66.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 35,
+          "lineups": 35,
+          "minutes": 3003,
+          "position": "Midfielder",
+          "rating": "7.291428"
+        },
+        "goals": {
+          "total": 9,
+          "assists": 5
+        },
+        "cards": {
+          "yellow": 12,
+          "yellowred": 0,
+          "red": 0
+        }
+      }
+    },
+    {
+      "player": {
+        "id": 18947,
+        "name": "M. Lemina",
+        "firstname": "Mario René Junior",
+        "lastname": "Lemina",
+        "age": 32,
+        "birth": {
+          "date": "1993-09-01",
+          "place": "Libreville",
+          "country": "Gabon"
+        },
+        "nationality": "Gabon",
+        "height": "184",
+        "weight": "85",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18947.png"
+      },
+      "statistics": {
+        "team": {
+          "id": 39,
+          "name": "Wolves",
+          "logo": "https://media.api-sports.io/football/teams/39.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 35,
+          "lineups": 34,
+          "minutes": 2976,
+          "position": "Midfielder",
+          "rating": "7.071428"
+        },
+        "goals": {
+          "total": 4,
+          "assists": 1
+        },
+        "cards": {
+          "yellow": 11,
+          "yellowred": 1,
+          "red": 0
+        }
+      }
+    },
+    {
+      "player": {
+        "id": 130,
+        "name": "Nélson Semedo",
+        "firstname": "Nélson",
+        "lastname": "Cabral Semedo",
+        "age": 32,
+        "birth": {
+          "date": "1993-11-16",
+          "place": "Lisboa",
+          "country": "Portugal"
+        },
+        "nationality": "Portugal",
+        "height": "177",
+        "weight": "69",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/130.png"
+      },
+      "statistics": {
+        "team": {
+          "id": 39,
+          "name": "Wolves",
+          "logo": "https://media.api-sports.io/football/teams/39.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 36,
+          "lineups": 36,
+          "minutes": 3091,
+          "position": "Defender",
+          "rating": "6.722222"
+        },
+        "goals": {
+          "total": 0,
+          "assists": 1
+        },
+        "cards": {
+          "yellow": 11,
+          "yellowred": 0,
+          "red": 1
+        }
+      }
+    },
+    {
+      "player": {
+        "id": 1949,
+        "name": "A. Ahmedhodžić",
+        "firstname": "Anel",
+        "lastname": "Ahmedhodžić",
+        "age": 26,
+        "birth": {
+          "date": "1999-03-26",
+          "place": "Malmö",
+          "country": "Sweden"
+        },
+        "nationality": "Bosnia and Herzegovina",
+        "height": "190",
+        "weight": "84",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1949.png"
+      },
+      "statistics": {
+        "team": {
+          "id": 62,
+          "name": "Sheffield Utd",
+          "logo": "https://media.api-sports.io/football/teams/62.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 31,
+          "lineups": 30,
+          "minutes": 2650,
+          "position": "Defender",
+          "rating": "6.541935"
+        },
+        "goals": {
+          "total": 2,
+          "assists": 0
+        },
+        "cards": {
+          "yellow": 11,
+          "yellowred": null,
+          "red": 1
+        }
+      }
+    },
+    {
+      "player": {
+        "id": 2936,
+        "name": "J. Tarkowski",
+        "firstname": "James Alan",
+        "lastname": "Tarkowski",
+        "age": 33,
+        "birth": {
+          "date": "1992-11-19",
+          "place": "Manchester",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "185",
+        "weight": "81",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2936.png"
+      },
+      "statistics": {
+        "team": {
+          "id": 45,
+          "name": "Everton",
+          "logo": "https://media.api-sports.io/football/teams/45.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 38,
+          "lineups": 38,
+          "minutes": 3420,
+          "position": "Defender",
+          "rating": "7.326315"
+        },
+        "goals": {
+          "total": 1,
+          "assists": 1
+        },
+        "cards": {
+          "yellow": 11,
+          "yellowred": 0,
+          "red": 0
+        }
+      }
+    },
+    {
+      "player": {
+        "id": 978,
+        "name": "K. Havertz",
+        "firstname": "Kai Lukas",
+        "lastname": "Havertz",
+        "age": 26,
+        "birth": {
+          "date": "1999-06-11",
+          "place": "Aachen",
+          "country": "Germany"
+        },
+        "nationality": "Germany",
+        "height": "193",
+        "weight": "83",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/978.png"
+      },
+      "statistics": {
+        "team": {
+          "id": 42,
+          "name": "Arsenal",
+          "logo": "https://media.api-sports.io/football/teams/42.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 37,
+          "lineups": 30,
+          "minutes": 2639,
+          "position": "Attacker",
+          "rating": "7.224324"
+        },
+        "goals": {
+          "total": 13,
+          "assists": 7
+        },
+        "cards": {
+          "yellow": 11,
+          "yellowred": 0,
+          "red": 0
+        }
+      }
+    },
+    {
+      "player": {
+        "id": 195103,
+        "name": "João Gomes",
+        "firstname": "João Victor",
+        "lastname": "Gomes da Silva",
+        "age": 24,
+        "birth": {
+          "date": "2001-02-12",
+          "place": "Rio de Janeiro",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "176",
+        "weight": "74",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/195103.png"
+      },
+      "statistics": {
+        "team": {
+          "id": 39,
+          "name": "Wolves",
+          "logo": "https://media.api-sports.io/football/teams/39.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 35,
+          "lineups": 33,
+          "minutes": 2667,
+          "position": "Midfielder",
+          "rating": "6.894117"
+        },
+        "goals": {
+          "total": 2,
+          "assists": 1
+        },
+        "cards": {
+          "yellow": 11,
+          "yellowred": null,
+          "red": 0
+        }
+      }
+    },
+    {
+      "player": {
+        "id": 116117,
+        "name": "M. Caicedo",
+        "firstname": "Moisés Isaac",
+        "lastname": "Caicedo Corozo",
+        "age": 24,
+        "birth": {
+          "date": "2001-11-02",
+          "place": "Santo Domingo",
+          "country": "Ecuador"
+        },
+        "nationality": "Ecuador",
+        "height": "178",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/116117.png"
+      },
+      "statistics": {
+        "team": {
+          "id": 49,
+          "name": "Chelsea",
+          "logo": "https://media.api-sports.io/football/teams/49.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 35,
+          "lineups": 33,
+          "minutes": 2874,
+          "position": "Midfielder",
+          "rating": "7.111428"
+        },
+        "goals": {
+          "total": 1,
+          "assists": 3
+        },
+        "cards": {
+          "yellow": 11,
+          "yellowred": 0,
+          "red": 0
+        }
+      }
+    },
+    {
+      "player": {
+        "id": 2869,
+        "name": "E. Álvarez",
+        "firstname": "Edson Omar",
+        "lastname": "Álvarez Velázquez",
+        "age": 28,
+        "birth": {
+          "date": "1997-10-24",
+          "place": "Tlalnepantla de Baz",
+          "country": "Mexico"
+        },
+        "nationality": "Mexico",
+        "height": "187",
+        "weight": "73",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2869.png"
+      },
+      "statistics": {
+        "team": {
+          "id": 48,
+          "name": "West Ham",
+          "logo": "https://media.api-sports.io/football/teams/48.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 31,
+          "lineups": 28,
+          "minutes": 2384,
+          "position": "Midfielder",
+          "rating": "6.932258"
+        },
+        "goals": {
+          "total": 1,
+          "assists": 1
+        },
+        "cards": {
+          "yellow": 11,
+          "yellowred": 0,
+          "red": 0
+        }
+      }
+    },
+    {
+      "player": {
+        "id": 18968,
+        "name": "Y. Bissouma",
+        "firstname": "Yves",
+        "lastname": "Bissouma",
+        "age": 29,
+        "birth": {
+          "date": "1996-08-30",
+          "place": "Issia",
+          "country": "Côte d'Ivoire"
+        },
+        "nationality": "Mali",
+        "height": "182",
+        "weight": "80",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/18968.png"
+      },
+      "statistics": {
+        "team": {
+          "id": 47,
+          "name": "Tottenham",
+          "logo": "https://media.api-sports.io/football/teams/47.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 28,
+          "lineups": 26,
+          "minutes": 2083,
+          "position": "Midfielder",
+          "rating": "7.067857"
+        },
+        "goals": {
+          "total": 0,
+          "assists": null
+        },
+        "cards": {
+          "yellow": 10,
+          "yellowred": 1,
+          "red": 1
+        }
+      }
+    },
+    {
+      "player": {
+        "id": 1934,
+        "name": "S. Berge",
+        "firstname": "Sander Gard",
+        "lastname": "Bolin Berge",
+        "age": 27,
+        "birth": {
+          "date": "1998-02-14",
+          "place": "Bærum",
+          "country": "Norway"
+        },
+        "nationality": "Norway",
+        "height": "195",
+        "weight": "96",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1934.png"
+      },
+      "statistics": {
+        "team": {
+          "id": 44,
+          "name": "Burnley",
+          "logo": "https://media.api-sports.io/football/teams/44.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 37,
+          "lineups": 36,
+          "minutes": 3005,
+          "position": "Midfielder",
+          "rating": "6.924324"
+        },
+        "goals": {
+          "total": 1,
+          "assists": 2
+        },
+        "cards": {
+          "yellow": 10,
+          "yellowred": null,
+          "red": 1
+        }
+      }
+    },
+    {
+      "player": {
+        "id": 2284,
+        "name": "Emerson",
+        "firstname": "Emerson",
+        "lastname": "Palmieri dos Santos",
+        "age": 31,
+        "birth": {
+          "date": "1994-08-03",
+          "place": "Santos",
+          "country": "Brazil"
+        },
+        "nationality": "Italy",
+        "height": "176",
+        "weight": "63",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/2284.png"
+      },
+      "statistics": {
+        "team": {
+          "id": 48,
+          "name": "West Ham",
+          "logo": "https://media.api-sports.io/football/teams/48.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 36,
+          "lineups": 36,
+          "minutes": 3142,
+          "position": "Defender",
+          "rating": "6.905555"
+        },
+        "goals": {
+          "total": 1,
+          "assists": 2
+        },
+        "cards": {
+          "yellow": 10,
+          "yellowred": null,
+          "red": 0
+        }
+      }
+    },
+    {
+      "player": {
+        "id": 283058,
+        "name": "N. Jackson",
+        "firstname": "Nicolas",
+        "lastname": "Jackson",
+        "age": 24,
+        "birth": {
+          "date": "2001-06-20",
+          "place": "Banjul",
+          "country": "Gambia"
+        },
+        "nationality": "Senegal",
+        "height": "186",
+        "weight": "78",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/283058.png"
+      },
+      "statistics": {
+        "team": {
+          "id": 49,
+          "name": "Chelsea",
+          "logo": "https://media.api-sports.io/football/teams/49.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 35,
+          "lineups": 33,
+          "minutes": 2804,
+          "position": "Attacker",
+          "rating": "7.011428"
+        },
+        "goals": {
+          "total": 14,
+          "assists": 5
+        },
+        "cards": {
+          "yellow": 10,
+          "yellowred": null,
+          "red": 0
+        }
+      }
+    },
+    {
+      "player": {
+        "id": 19294,
+        "name": "J. Robinson",
+        "firstname": "Jack",
+        "lastname": "Robinson",
+        "age": 32,
+        "birth": {
+          "date": "1993-09-01",
+          "place": "Warrington",
+          "country": "England"
+        },
+        "nationality": "England",
+        "height": "180",
+        "weight": "67",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/19294.png"
+      },
+      "statistics": {
+        "team": {
+          "id": 62,
+          "name": "Sheffield Utd",
+          "logo": "https://media.api-sports.io/football/teams/62.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 34,
+          "lineups": 31,
+          "minutes": 2886,
+          "position": "Defender",
+          "rating": "6.673529"
+        },
+        "goals": {
+          "total": 1,
+          "assists": 1
+        },
+        "cards": {
+          "yellow": 10,
+          "yellowred": 0,
+          "red": 0
+        }
+      }
+    },
+    {
+      "player": {
+        "id": 1646,
+        "name": "Lucas Paquetá",
+        "firstname": "Lucas",
+        "lastname": "Tolentino Coelho de Lima",
+        "age": 28,
+        "birth": {
+          "date": "1997-08-27",
+          "place": "Rio de Janeiro",
+          "country": "Brazil"
+        },
+        "nationality": "Brazil",
+        "height": "180",
+        "weight": "72",
+        "injured": false,
+        "photo": "https://media.api-sports.io/football/players/1646.png"
+      },
+      "statistics": {
+        "team": {
+          "id": 48,
+          "name": "West Ham",
+          "logo": "https://media.api-sports.io/football/teams/48.png"
+        },
+        "league": {
+          "id": 39,
+          "name": "Premier League",
+          "country": "England",
+          "logo": "https://media.api-sports.io/football/leagues/39.png",
+          "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 31,
+          "lineups": 31,
+          "minutes": 2638,
+          "position": "Midfielder",
+          "rating": "7.190322"
+        },
+        "goals": {
+          "total": 4,
+          "assists": 6
+        },
+        "cards": {
+          "yellow": 10,
+          "yellowred": 0,
+          "red": 0
+        }
+      }
+    }
+  ]
+}
